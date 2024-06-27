@@ -1,7 +1,7 @@
 ### Olá Pessoal, eu sou o Vinicius! 👋
 
-- 🔭 Hoje trabalho com Sistemas de segurança;
-- 🌱 No momento estou aprendendo React;
+- 🔭 Hoje trabalho com Suporte Pós Vendas;
+- 🌱 No momento estou aprendendo Desenvolvimento Web;
 
 
 
